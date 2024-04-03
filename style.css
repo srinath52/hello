@@ -1,0 +1,34 @@
+h1 ,h2 ,h3 ,h4 ,h5, h6 {
+    color: #0099cc;
+    text-align: center;
+}
+
+div {
+    border: 3px solid  #000000;
+    background-color: #50727d;
+    font-family:"Arial"
+    margin: auto;
+    width: auto;
+    padding: auto;
+      }
+
+      table {
+        border 1px solid  black;
+      } 
+
+      #luffy {stroke: #000000;}
+
+      body {
+        --bs-body-font-family: var(--bs-font-monospace);
+        --bs-body-line-height: 1.4;
+        --bs-body-bg: var(--bs-gray-100);
+      }
+      
+      .table {
+        --bs-table-color: var(--bs-gray-600);
+        --bs-table-bg: var(--bs-gray-100);
+        --bs-table-border-color: transparent;
+      }
+
+
+     
